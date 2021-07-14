@@ -1,0 +1,6 @@
+14-07-2021 11:41:36 INFO [TestCases]: Browser opened
+14-07-2021 11:41:38 INFO [TestCases]: Url entered.
+14-07-2021 11:41:38 INFO [TestCases]: Entered Search Criteria.
+14-07-2021 11:41:41 INFO [TestCases]: Search button clicked.
+14-07-2021 11:41:41 INFO [TestCases]: Test case OpenGoogleAndSearch - PASS. About Majesco link displayed
+14-07-2021 11:42:25 INFO [TestCases]: Test Case clickOnAboutUS PASS
